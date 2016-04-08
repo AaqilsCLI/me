@@ -1,6 +1,5 @@
 
-Id:IT13000554
-Name: Aaqil MFM
+
 
 
 level 0 -> level 1 :
@@ -623,7 +622,7 @@ bandit17@melinda:~$ diff passwords.new passwords.old
 
 level 18 -> level 19 :
 
-ssh –t bandit18@bandit.labs.overthewire.org bin/bash
+ssh Â–t bandit18@bandit.labs.overthewire.org bin/bash
 
 level 19 -> level 20 :
 
